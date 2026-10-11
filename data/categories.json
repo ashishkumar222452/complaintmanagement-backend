@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "6acbc9b057dc99b8f90d0898",
+    "name": "Hostel & Accommodation",
+    "description": "Room maintenance, hygiene, water, and electricity in hostels",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.384Z",
+    "updatedAt": "2026-10-11T17:38:56.384Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d0899",
+    "name": "Academic & Examination",
+    "description": "Classes, timetable, grade cards, and faculty coordination",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.418Z",
+    "updatedAt": "2026-10-11T17:38:56.418Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d089a",
+    "name": "IT & Network Infrastructure",
+    "description": "Wi-Fi, computer labs, portal access, and software licenses",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.432Z",
+    "updatedAt": "2026-10-11T17:38:56.432Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d089b",
+    "name": "Library & Learning Resources",
+    "description": "Book lending, digital library access, and reading room",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.435Z",
+    "updatedAt": "2026-10-11T17:38:56.435Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d089c",
+    "name": "Canteen & Food Services",
+    "description": "Cafeteria hygiene, food quality, and pricing",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.438Z",
+    "updatedAt": "2026-10-11T17:38:56.438Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d089d",
+    "name": "Transport & Parking",
+    "description": "College buses, parking permits, and vehicle safety",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.440Z",
+    "updatedAt": "2026-10-11T17:38:56.440Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d089e",
+    "name": "Sports & Gymnasium",
+    "description": "Sports equipment, grounds maintenance, and gym facility",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.444Z",
+    "updatedAt": "2026-10-11T17:38:56.444Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d089f",
+    "name": "Maintenance & Facilities",
+    "description": "General electrical, plumbing, civil repairs, and elevators",
+    "isActive": true,
+    "createdAt": "2026-10-11T17:38:56.446Z",
+    "updatedAt": "2026-10-11T17:38:56.446Z"
+  }
+]

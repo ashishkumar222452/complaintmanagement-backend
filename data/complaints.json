@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "6acbcdcde62c6040677a9991",
+    "complaintId": "CMP-20261011-7958",
+    "user": "6acbcdcde62c6040677a9990",
+    "userName": "Arjun Nair",
+    "userEmail": "test_1791741389309@college.edu",
+    "title": "Network latency in CSE Department Lab 2",
+    "description": "System ping is greater than 800ms during database practical session.",
+    "category": "Academic & Examination",
+    "priority": "High",
+    "imageUrl": null,
+    "status": "Resolved",
+    "assignedTo": "Network Operations Team",
+    "adminRemarks": "Switch port replaced. Ping normalized to 12ms. Resolved.",
+    "resolutionDate": "2026-10-11T17:56:29.789Z",
+    "statusHistory": [
+      {
+        "_id": "6acbcdcde62c6040677a9992",
+        "status": "Pending",
+        "remarks": "Complaint submitted by user",
+        "changedByName": "Arjun Nair",
+        "changedAt": "2026-10-11T17:56:29.610Z"
+      },
+      {
+        "_id": "6acbcdcde62c6040677a9994",
+        "status": "In Progress",
+        "remarks": "Assigned to Network Operations Team. Cable switch test scheduled.",
+        "changedByName": "System Administrator",
+        "changedAt": "2026-10-11T17:56:29.770Z"
+      },
+      {
+        "_id": "6acbcdcde62c6040677a9996",
+        "status": "Resolved",
+        "remarks": "Switch port replaced. Ping normalized to 12ms. Resolved.",
+        "changedByName": "System Administrator",
+        "changedAt": "2026-10-11T17:56:29.789Z"
+      }
+    ],
+    "createdAt": "2026-10-11T17:56:29.610Z",
+    "updatedAt": "2026-10-11T17:56:29.789Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08a8",
+    "complaintId": "CMP-20261011-8405",
+    "user": "6acbc9b057dc99b8f90d0896",
+    "userName": "Priya Sharma",
+    "userEmail": "user@example.com",
+    "title": "Broken window latch in Hostel Room 204",
+    "description": "The latch on the right window pane broke during heavy wind and cannot be closed securely at night.",
+    "category": "Hostel & Accommodation",
+    "priority": "Medium",
+    "imageUrl": null,
+    "status": "Pending",
+    "assignedTo": "Unassigned",
+    "adminRemarks": "",
+    "resolutionDate": null,
+    "statusHistory": [
+      {
+        "_id": "6acbc9b057dc99b8f90d08a9",
+        "status": "Pending",
+        "remarks": "Complaint submitted by user",
+        "changedByName": "Priya Sharma",
+        "changedAt": "2026-10-11T17:38:56.463Z"
+      }
+    ],
+    "createdAt": "2026-10-11T17:38:56.463Z",
+    "updatedAt": "2026-10-11T17:38:56.463Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08a6",
+    "complaintId": "CMP-20261011-8404",
+    "user": "6acbc9b057dc99b8f90d0897",
+    "userName": "Rahul Verma",
+    "userEmail": "rahul@example.com",
+    "title": "Online library catalog returning 504 gateway timeout",
+    "description": "Searching for reference journals in the library portal freezes and gives a gateway timeout error.",
+    "category": "Library & Learning Resources",
+    "priority": "Low",
+    "imageUrl": null,
+    "status": "Pending",
+    "assignedTo": "Unassigned",
+    "adminRemarks": "",
+    "resolutionDate": null,
+    "statusHistory": [
+      {
+        "_id": "6acbc9b057dc99b8f90d08a7",
+        "status": "Pending",
+        "remarks": "Complaint submitted by user",
+        "changedByName": "Rahul Verma",
+        "changedAt": "2026-10-11T17:38:56.462Z"
+      }
+    ],
+    "createdAt": "2026-10-11T17:38:56.462Z",
+    "updatedAt": "2026-10-11T17:38:56.462Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08a4",
+    "complaintId": "CMP-20261011-8403",
+    "user": "6acbc9b057dc99b8f90d0897",
+    "userName": "Rahul Verma",
+    "userEmail": "rahul@example.com",
+    "title": "Projector display distorted in Seminar Hall 2",
+    "description": "The projector keeps flickering green and loses HDMI signal intermittently during guest lectures and project presentations.",
+    "category": "Academic & Examination",
+    "priority": "Medium",
+    "imageUrl": null,
+    "status": "Pending",
+    "assignedTo": "Unassigned",
+    "adminRemarks": "",
+    "resolutionDate": null,
+    "statusHistory": [
+      {
+        "_id": "6acbc9b057dc99b8f90d08a5",
+        "status": "Pending",
+        "remarks": "Complaint submitted by user",
+        "changedByName": "Rahul Verma",
+        "changedAt": "2026-10-11T17:38:56.460Z"
+      }
+    ],
+    "createdAt": "2026-10-11T17:38:56.460Z",
+    "updatedAt": "2026-10-11T17:38:56.460Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08a2",
+    "complaintId": "CMP-20261011-8402",
+    "user": "6acbc9b057dc99b8f90d0896",
+    "userName": "Priya Sharma",
+    "userEmail": "user@example.com",
+    "title": "Water cooler leaking in Computer Lab Corridor",
+    "description": "Water has been pooling in front of Lab 4 entrance, creating a slip hazard for passing students and faculty.",
+    "category": "Maintenance & Facilities",
+    "priority": "Urgent",
+    "imageUrl": null,
+    "status": "Resolved",
+    "assignedTo": "Plumbing & Civil Works",
+    "adminRemarks": "Plumbing valve replaced and leakage resolved successfully.",
+    "resolutionDate": "2026-10-11T15:38:56.457Z",
+    "statusHistory": [
+      {
+        "_id": "6acbc9b057dc99b8f90d08a3",
+        "status": "Pending",
+        "remarks": "Complaint submitted by user",
+        "changedByName": "Priya Sharma",
+        "changedAt": "2026-10-11T17:38:56.453Z"
+      },
+      {
+        "status": "In Progress",
+        "remarks": "Plumber dispatched to inspect valve pipe.",
+        "changedByName": "System Administrator",
+        "changedAt": "2026-10-11T09:38:56.457Z"
+      },
+      {
+        "status": "Resolved",
+        "remarks": "Plumbing valve replaced and leakage resolved successfully.",
+        "changedByName": "System Administrator",
+        "changedAt": "2026-10-11T15:38:56.457Z"
+      }
+    ],
+    "createdAt": "2026-10-11T17:38:56.453Z",
+    "updatedAt": "2026-10-11T17:38:56.453Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08a0",
+    "complaintId": "CMP-20261011-8401",
+    "user": "6acbc9b057dc99b8f90d0896",
+    "userName": "Priya Sharma",
+    "userEmail": "user@example.com",
+    "title": "Wi-Fi connection down in Block B 3rd Floor",
+    "description": "The Wi-Fi router on 3rd floor hallway has had no internet throughput since yesterday morning. Multiple students are unable to submit lab assignments.",
+    "category": "IT & Network Infrastructure",
+    "priority": "High",
+    "imageUrl": null,
+    "status": "In Progress",
+    "assignedTo": "Network Operations Team",
+    "adminRemarks": "Assigned to network engineer for fiber cable testing.",
+    "resolutionDate": null,
+    "statusHistory": [
+      {
+        "_id": "6acbc9b057dc99b8f90d08a1",
+        "status": "Pending",
+        "remarks": "Complaint submitted by user",
+        "changedByName": "Priya Sharma",
+        "changedAt": "2026-10-11T17:38:56.449Z"
+      },
+      {
+        "status": "In Progress",
+        "remarks": "Assigned to network engineer for fiber cable testing.",
+        "changedByName": "System Administrator",
+        "changedAt": "2026-10-11T13:38:56.450Z"
+      }
+    ],
+    "createdAt": "2026-10-11T17:38:56.449Z",
+    "updatedAt": "2026-10-11T17:38:56.449Z"
+  }
+]

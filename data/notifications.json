@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6acbcdcde62c6040677a9997",
+    "user": "6acbcdcde62c6040677a9990",
+    "complaint": "6acbcdcde62c6040677a9991",
+    "complaintId": "CMP-20261011-7958",
+    "title": "Complaint Status Updated: Resolved",
+    "message": "Your complaint #CMP-20261011-7958 has been updated to \"Resolved\". Remarks: \"Switch port replaced. Ping normalized to 12ms. Resolved.\"",
+    "isRead": false,
+    "createdAt": "2026-10-11T17:56:29.791Z"
+  },
+  {
+    "_id": "6acbcdcde62c6040677a9995",
+    "user": "6acbcdcde62c6040677a9990",
+    "complaint": "6acbcdcde62c6040677a9991",
+    "complaintId": "CMP-20261011-7958",
+    "title": "Complaint Status Updated: In Progress",
+    "message": "Your complaint #CMP-20261011-7958 has been updated to \"In Progress\". Remarks: \"Assigned to Network Operations Team. Cable switch test scheduled.\"",
+    "isRead": false,
+    "createdAt": "2026-10-11T17:56:29.773Z"
+  },
+  {
+    "_id": "6acbcdcde62c6040677a9993",
+    "user": "6acbcdcde62c6040677a9990",
+    "complaint": "6acbcdcde62c6040677a9991",
+    "complaintId": "CMP-20261011-7958",
+    "title": "Complaint Submitted",
+    "message": "Your complaint #CMP-20261011-7958 has been successfully registered.",
+    "isRead": false,
+    "createdAt": "2026-10-11T17:56:29.613Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08ab",
+    "user": "6acbc9b057dc99b8f90d0896",
+    "complaint": null,
+    "complaintId": "CMP-20261011-8401",
+    "title": "Complaint In Progress",
+    "message": "Your complaint #CMP-20261011-8401 (Wi-Fi connection down) is now In Progress.",
+    "isRead": false,
+    "createdAt": "2026-10-11T17:38:56.468Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d08aa",
+    "user": "6acbc9b057dc99b8f90d0896",
+    "complaint": null,
+    "complaintId": "CMP-20261011-8402",
+    "title": "Complaint Resolved",
+    "message": "Your complaint #CMP-20261011-8402 (Water cooler leaking) has been marked Resolved.",
+    "isRead": false,
+    "createdAt": "2026-10-11T17:38:56.466Z"
+  }
+]

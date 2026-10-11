@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6acbc9b057dc99b8f90d0895",
+    "name": "System Administrator",
+    "email": "admin@example.com",
+    "password": "$2a$10$hLmhfYxohQdLU8Ua9MshGO0/aKryHJEdyriLFuFZxd5dFDu0xt2Xm",
+    "phone": "+91 98765 43210",
+    "role": "admin",
+    "createdAt": "2026-10-11T17:38:56.134Z",
+    "updatedAt": "2026-10-11T17:38:56.148Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d0896",
+    "name": "ashish",
+    "email": "user@example.com",
+    "password": "$2a$10$R1.NgrnmYZcJE/vCu7WpRu2dugojUdu2LraUBeIk1YA4MM1t8lZQ2",
+    "phone": "+919398025676",
+    "role": "user",
+    "createdAt": "2026-10-11T17:38:56.239Z",
+    "updatedAt": "2026-10-11T18:37:22.498Z"
+  },
+  {
+    "_id": "6acbc9b057dc99b8f90d0897",
+    "name": "Rahul Verma",
+    "email": "rahul@example.com",
+    "password": "$2a$10$sE.sepqDCtc/vhXy4i0Ir.Nx2bi98OnUFkZvAM5yjG8MiD3ceNGza",
+    "phone": "+91 98222 33445",
+    "role": "user",
+    "createdAt": "2026-10-11T17:38:56.382Z",
+    "updatedAt": "2026-10-11T17:38:56.382Z"
+  },
+  {
+    "_id": "6acbcdcde62c6040677a9990",
+    "name": "Arjun Nair",
+    "email": "test_1791741389309@college.edu",
+    "password": "$2a$10$/bhNCcmvfnS2lQhR07VmruzJ43mX5zg9DtTsWc3KnB2tw5qZ399SC",
+    "phone": "+91 98765 99999",
+    "role": "user",
+    "createdAt": "2026-10-11T17:56:29.466Z",
+    "updatedAt": "2026-10-11T17:56:29.466Z"
+  }
+]
